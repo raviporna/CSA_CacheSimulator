@@ -8,3 +8,6 @@
 or ***.\CacheSimX go_ld_trace.txt***
 
 3. Adjust parameter in CacheSim.h
+
+All codes are modified from Krerk Piromsopa, Ph.D.
+https://www.cp.eng.chula.ac.th/~krerk/books/Computer%20Architecture/CacheSim/
